@@ -1,0 +1,46 @@
+table, tr {
+    margin: auto;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cottrai {
+    width: 640px;
+    padding: 20px;
+    
+}
+#cotphai {
+    width: 260px;
+    vertical-align: top;
+}
+#success {
+    width: 640px;
+    border: 1px solid #bfe6b9;
+    color: #1d6b17;
+    background-color: #e4ffe0;
+    padding: 5px 10px;
+    font-weight: bold;
+    float: left;
+    margin-bottom: 20px;
+}
+#failure {
+    width: 640px;
+    border: 1px solid #d6a6b4;
+    color: #96433b;
+    background-color: #ffe3e7;
+    padding: 5px 10px;
+    font-weight: bold;
+    float: left;
+    margin-bottom: 20px;
+}
+.close {
+    float: right;
+}
+.label {
+    font-size: 14px;
+    color: #666666;
+    font-weight: bold;
+}
+p {
+    margin: 5px 0px;
+    height: 75px;
+}
