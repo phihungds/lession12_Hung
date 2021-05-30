@@ -10,10 +10,15 @@ table, tr {
     
 }
 #cotphai {
-    width: 260px;
+    width: 240px;
     vertical-align: top;
     padding: 20px;
 }
+#cotphai table { width: 100%;}
+#cotphai a {font-size: 15px;}
+#cotphai th {padding: 10px;}
+#dong1phai { font-size: 1.17em; text-align: left; background-color: #deebfe;}
+
 #success {
     width: 640px;
     border: 1px solid #bfe6b9;
@@ -80,3 +85,11 @@ p {
 #minitable td {
     padding: 7px 10px;
 }
+#quote {
+    padding: 10px;
+    vertical-align: top;
+}
+ul li{
+    list-style-image: url(img/art.jpg);
+}
+#icon {width: 30px;}
